@@ -68,6 +68,8 @@ Participants will be able to:
 * [History of Sequencing, overview and comparison of NGS technologies](https://github.com/AMR-Bioinformatics/Bacterial-Genomics-Sequencing-and-Bioinformatics-Training/blob/main/Lectures/History%20of%20Sequencing%2C%20Overview%20and%20Comparison%20of%20NGS%20Technologies.pdf)
 * [Principle of Illumina sequencing](https://github.com/AMR-Bioinformatics/Bacterial-Genomics-Sequencing-and-Bioinformatics-Training/blob/main/Lectures/ILLUMINA%20DNA%20Prep%20Overview.pdf)
 * [Bacterial genomes](https://github.com/AMR-Bioinformatics/Bacterial-Genomics-Sequencing-and-Bioinformatics-Training/blob/main/Lectures/MHK%20Genomics%20training%20Bacterial%20Genomes.pdf)
+* [Genome Assembly](https://github.com/AMR-Bioinformatics/Bacterial-Genomics-Sequencing-and-Bioinformatics-Training/blob/main/Lectures/Genome%20Assembly.pdf)
+* [Bacterial typing](https://github.com/AMR-Bioinformatics/Bacterial-Genomics-Sequencing-and-Bioinformatics-Training/blob/main/Lectures/Bacterial%20Typing.pdf)
 
 
 
